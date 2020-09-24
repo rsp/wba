@@ -250,14 +250,6 @@ technical
 
 ---
 
-# DENO
-
-[deno.land](https://deno.land/)
-
-[github.com/denoland/deno](https://github.com/denoland/deno)
-
----
-
 # JavaScript
 
 `[1, 1, 1].map(parseInt)`
@@ -303,6 +295,26 @@ technical
 [emscripten.org](https://emscripten.org/)
 
 [github.com/emscripten-core](https://github.com/emscripten-core)
+
+---
+
+# Node
+
+[nodejs.org](https://nodejs.org/)
+
+[github.com/nodejs](https://github.com/nodejs)
+
+[nodejs.org/api/wasi.html](https://nodejs.org/api/wasi.html)
+
+---
+
+# Deno
+
+[deno.land](https://deno.land/)
+
+[github.com/denoland](https://github.com/denoland)
+
+[deno.land/std/wasi](https://deno.land/std/wasi)
 
 ---
 
