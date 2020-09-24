@@ -183,73 +183,6 @@ Ecma International
 
 ---
 
-# Artykuły
-<small>
-[WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)<br>by Lin Clark, Mozilla Hacks, 2019
-<br><br>
-[Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)<br>by Lin Clark, Mozilla Hacks, 2019
-<br><br>
-[Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)<br>by Lin Clark, Mozilla Hacks, 2019
-<br><br>
-[Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format) on MDN
-<br><br>
-[Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html) by Colin Eberhardt
-<br><br>
-[WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
-
-</small>
-
----
-
-# Wykłady
-<small>
-[From Electron, to Wasm, to Rust (Aaand Back to Electron)](https://www.youtube.com/watch?v=lLzFJenzBng) by Irina Shestak, RustConf 2019
-<br><br>
-[WebAssembly for Web Developers](https://www.youtube.com/watch?v=njt-Qzw0mVY) by Surma Surma and Deepti Gandluri, Google I/O 2019
-<br><br>
-[HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E) by Daniel Stenberg, Full Stack Fest 2019
-<br><br>
-[Bringing WebAssembly outside the web with WASI](https://www.youtube.com/watch?v=fh9WXPu0hw8) by Lin Clark, Full Stack Fest 2019
-<br><br>
-[WebAssembly on the Server](https://www.youtube.com/watch?v=A9SydP1CcZU) by Zack Bloom, Cloudflare 2019
-
-</small>
-
----
-
-# Więcej wykładów
-<small>
-[Build the future of the web with WebAssembly and more](https://www.youtube.com/watch?v=BnYq7JapeDA), Google I/O 2018
-<br><br>
-[Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o) by Franziska Hinkelmann, CovalenceConf 2019
-<br><br>
-[WebAssembly beyond the Web](https://www.youtube.com/watch?v=YhNkspvw37w) by Lin Clark and Till Schneidereit, WebAssembly Munich Meetup 2019
-(slabsze)
-<br><br>
-[An Introduction to WebAssembly](https://www.youtube.com/watch?v=vChLD1VytOE) by Guy Royse, Devoxx Belgium 2019
-technical
-<br><br>
-[Wasm The Future](https://www.youtube.com/watch?v=G-ThBWLxwuA) by Alex Danilo, Melbourne GDG Devfest 2018
-technical
-
-</small>
-
----
-
-# WASM + nie-JS
-<small>
-[Rust, WebAssembly, and the future of Serverless](https://www.youtube.com/watch?v=CMB6AlE1QuI) by Steve Klabnik, Full Stack Fest 2019
-<br><br>
-[SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY) by Rainer Stropek, TechDays Stockholm 2019
-<br><br>
-[WASM: Bringing Go to the Browser (and Beyond!)](https://www.youtube.com/watch?v=oVzFNktAkvA) by Gabbi Fisher, GothamGo 2019
-<br><br>
-[WASM matter?](https://www.youtube.com/watch?v=eJMT1aImS9Q) by Russell Keith-Magee, PyCon AU 2019)
-
-</small>
-
----
-
 # JavaScript
 
 `[1, 1, 1].map(parseInt)`
@@ -288,6 +221,7 @@ technical
 
 [github.com/rust-lang](https://github.com/rust-lang/rust)
 
+[docs.rs/wasi](https://docs.rs/wasi/)
 ---
 
 # C / C++
@@ -315,6 +249,8 @@ technical
 [github.com/denoland](https://github.com/denoland)
 
 [deno.land/std/wasi](https://deno.land/std/wasi)
+
+[deno.land/manual/getting_started/webassembly](https://deno.land/manual/getting_started/webassembly)
 
 ---
 
@@ -380,6 +316,104 @@ technical
 <span class="hatched_chick">Zig</span>.
 <br><br>
 Żródło: [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs)
+
+</small>
+---
+
+# Narzędzia
+
+---
+
+# WebAssembly proposals
+
+[Reference Types](https://github.com/WebAssembly/reference-types)
+<br>
+[Bulk memory operations](https://github.com/WebAssembly/bulk-memory-operations)
+<br>
+[Tail call](https://github.com/WebAssembly/tail-call)
+<br>
+[Multiple memories](https://github.com/WebAssembly/proposals)
+<br>
+[Threads](https://github.com/webassembly/threads)
+<br>
+[ECMAScript module integration](https://github.com/WebAssembly/esm-integration)
+<br>
+[Exception handling](https://github.com/WebAssembly/exception-handling)
+<br>
+[Type Reflection for WebAssembly JavaScript API](https://github.com/WebAssembly/js-types)
+<br>
+[Typed Function References](https://github.com/WebAssembly/function-references)
+<br>
+[Type Imports](https://github.com/WebAssembly/proposal-type-imports)
+<br>
+[Garbage collection](https://github.com/WebAssembly/gc)
+<br>
+[Interface Types](https://github.com/WebAssembly/interface-types)
+
+---
+
+# Artykuły
+<small>
+[WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)<br>by Lin Clark, Mozilla Hacks, 2019
+<br><br>
+[Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)<br>by Lin Clark, Mozilla Hacks, 2019
+<br><br>
+[Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)<br>by Lin Clark, Mozilla Hacks, 2019
+<br><br>
+[Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format) on MDN
+<br><br>
+[Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html) by Colin Eberhardt
+<br><br>
+[WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
+
+</small>
+
+---
+
+# Wykłady
+<small>
+[From Electron, to Wasm, to Rust (Aaand Back to Electron)](https://www.youtube.com/watch?v=lLzFJenzBng) by Irina Shestak, RustConf 2019
+<br><br>
+[WebAssembly for Web Developers](https://www.youtube.com/watch?v=njt-Qzw0mVY) by Surma Surma and Deepti Gandluri, Google I/O 2019
+<br><br>
+[HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E) by Daniel Stenberg, Full Stack Fest 2019
+<br><br>
+[Bringing WebAssembly outside the web with WASI](https://www.youtube.com/watch?v=fh9WXPu0hw8) by Lin Clark, Full Stack Fest 2019
+<br><br>
+[WebAssembly on the Server](https://www.youtube.com/watch?v=A9SydP1CcZU) by Zack Bloom, Cloudflare 2019
+
+</small>
+
+---
+
+# Więcej wykładów
+<small>
+[Build the future of the web with WebAssembly and more](https://www.youtube.com/watch?v=BnYq7JapeDA), Google I/O 2018
+<br><br>
+[Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o) by Franziska Hinkelmann, CovalenceConf 2019
+<br><br>
+[WebAssembly beyond the Web](https://www.youtube.com/watch?v=YhNkspvw37w) by Lin Clark and Till Schneidereit, WebAssembly Munich Meetup 2019
+(slabsze)
+<br><br>
+[An Introduction to WebAssembly](https://www.youtube.com/watch?v=vChLD1VytOE) by Guy Royse, Devoxx Belgium 2019
+technical
+<br><br>
+[Wasm The Future](https://www.youtube.com/watch?v=G-ThBWLxwuA) by Alex Danilo, Melbourne GDG Devfest 2018
+technical
+
+</small>
+
+---
+
+# WASM + nie-JS
+<small>
+[Rust, WebAssembly, and the future of Serverless](https://www.youtube.com/watch?v=CMB6AlE1QuI) by Steve Klabnik, Full Stack Fest 2019
+<br><br>
+[SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY) by Rainer Stropek, TechDays Stockholm 2019
+<br><br>
+[WASM: Bringing Go to the Browser (and Beyond!)](https://www.youtube.com/watch?v=oVzFNktAkvA) by Gabbi Fisher, GothamGo 2019
+<br><br>
+[WASM matter?](https://www.youtube.com/watch?v=eJMT1aImS9Q) by Russell Keith-Magee, PyCon AU 2019)
 
 </small>
 
