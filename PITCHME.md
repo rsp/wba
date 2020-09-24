@@ -324,7 +324,7 @@ Ecma International
 
 ---
 
-# WebAssembly proposals
+# <small>WebAssembly proposals</small>
 <small>
 [Reference Types](https://github.com/WebAssembly/reference-types)
 <br>
