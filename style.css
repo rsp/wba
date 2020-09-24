@@ -62,3 +62,7 @@ h1 {
   font-family: Roboto !important;
   font-weight: 500 !important;
 }
+
+div.gp-logo-bottom-left {
+  bottom: 30px;
+}
