@@ -1,0 +1,64 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+img.stars {
+  vertical-align: middle;
+}
+
+.reveal {
+  font-family: Roboto;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: Roboto;
+  font-weight: 900;
+}
+
+.reveal pre {
+  /* width: 120%; */
+  /* margin-left: -10%; */
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.reveal .slides a {
+  color: #000 !important;
+  text-decoration: underline !important;
+}
+
+.reveal .slides a:hover {
+  color: #777 !important;
+  text-decoration: underline !important;
+}
+
+.reveal a.black {
+  text-decoration: none !important;
+}
+
+.reveal a.black:hover {
+  color: #777 !important;
+  text-decoration: underline !important;
+}
+
+.reveal .controls {
+  color: #000 !important;
+}
+
+#title-footer {
+  background: white !important;
+}
+
+#title-footer a, .reveal .slide-number a {
+  text-decoration: none !important;
+}
+#title-footer a:hover, .reveal .slide-number a:hover {
+  text-decoration: underline !important;
+}
+
+#title-footer #notification p, .reveal .slide-number {
+  font-family: Roboto !important;
+  font-weight: 500 !important;
+}
