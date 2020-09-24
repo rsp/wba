@@ -78,13 +78,9 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# Lin Clark
+# <small>Lin Clark<br><small>[twitter.com/linclark](https://twitter.com/linclark)</small></small>
 
-[twitter.com/linclark](https://twitter.com/linclark)
-
-# Steve Klabnik
-
-[steveklabnik.com](https://steveklabnik.com/)
+# <small>Steve Klabnik<br><small>[steveklabnik.com](https://steveklabnik.com/)</small></small>
 
 ---
 
