@@ -76,15 +76,15 @@ Możecie mnie znać ze Stack Overflow
 
 <small style="text-transform: none !important;">
 
-# GNOSIS (1970s)
+# <span style="text-transform: none !important;">GNOSIS (1970s)</span>
 
-# KeyKOS (1980s)
+# <span style="text-transform: none !important;">KeyKOS (1980s)</span>
 
-# EROS (1990s)
+# <span style="text-transform: none !important;">EROS (1990s)</span>
 
-# CapROS (early 2000s)
+# <span style="text-transform: none !important;">CapROS (early 2000s)</span>
 
-# Coyotos (mid 2000s)
+# <span style="text-transform: none !important;">Coyotos (mid 2000s)</span>
 
 </small>
 
