@@ -74,6 +74,18 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+<small>
+
+# GNOSIS (1970s)
+# KeyKOS
+# EROS (1990s)
+# CapROS (early 2000s)
+# Coyotos (mid 2000s)
+
+</small>
+
+---
+
 # 2009
 
 [Changes to JavaScript, Part 1: EcmaScript 5](https://www.youtube.com/watch?v=Kq4FpMe6cRs)
