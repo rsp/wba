@@ -70,7 +70,9 @@ Możecie mnie znać ze Stack Overflow
 
 # David West
 
-  ---
+</small>
+
+---
 
 # 2009
 
