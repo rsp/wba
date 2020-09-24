@@ -4,7 +4,7 @@
 
 # WebAssembly System Interface
 
-Cyli jak WASM i WASI zmieni sposób, <br> w jaki myślimy o bezpieczeństwie aplikacji.
+Czyli jak WASM i WASI zmieni sposób, <br> w jaki myślimy o bezpieczeństwie aplikacji.
 
 ---
 
@@ -34,6 +34,10 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 
 # Rys historyczny
 
+---
+
+2000
+
 [MicroEssays on Capability Theory](http://cap-lore.com/)
 <br> [Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
 <br> [Computer Security, the Very Idea](http://cap-lore.com/Dual.html)
@@ -42,6 +46,12 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 <br> [KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
 <br> [The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
 <br> http://cap-lore.com/
+
+---
+
+2009
+
+[Changes to JavaScript, Part 1: EcmaScript 5](https://www.youtube.com/watch?v=Kq4FpMe6cRs)
 
 ---
 
