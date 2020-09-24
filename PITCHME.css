@@ -16,8 +16,8 @@
 }
 
 .egg { font-weight: 100 !important; }
-.hatching_chick { font-weight: 300 !important; }
-.hatched_chick { font-weight: 700 !important; }
+.hatching_chick { font-weight: 500 !important; }
+.hatched_chick { font-weight: 900 !important; }
 
 .reveal section img {
   border: 0;
