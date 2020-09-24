@@ -15,6 +15,10 @@
   font-weight: 100;
 }
 
+.egg { font-weight: 100; }
+.hatching_chick { font-weight: 300; }
+.hatched_chick { font-weight: 700; }
+
 .reveal section img {
   border: 0;
   box-shadow: none;

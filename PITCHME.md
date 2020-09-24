@@ -250,12 +250,9 @@ technical
 
 # DENO
 
-<small>
 [deno.land](https://deno.land/)
-<br><br>
-[github.com/denoland/deno](https://github.com/denoland/deno)
 
-</small>
+[github.com/denoland/deno](https://github.com/denoland/deno)
 
 ---
 
@@ -263,9 +260,8 @@ technical
 
 `[1, 1, 1].map(parseInt)`
 
-</small>
 [tc39.es](https://tc39.es/)
-<br><br>
+
 [github.com/tc39](https://github.com/tc39)
 
 </small>
@@ -276,23 +272,96 @@ technical
 
 `[1, 1, 1].map(parseInt) as any`
 
-<small>
 [typescriptlang.org](https://www.typescriptlang.org/)
 
-</small>
+[github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 
 ---
 
 # AssemblyScript
 
-`[1, 1, 1].map(parseInt) as u32[]`
+`store<i32>(offset + ((width * y + x) << 2), ~vi << 24 | vi << 8);`
 
-<small>
 [assemblyscript.org](https://www.assemblyscript.org/)
-<br><br>
+
 [github.com/AssemblyScript](https://github.com/AssemblyScript)
 
-</small>
+---
+
+# Rust
+
+[rust-lang.org](https://www.rust-lang.org/)
+
+[github.com/rust-lang](https://github.com/rust-lang/rust)
+
+---
+
+# C / C++
+
+[emscripten.org](https://emscripten.org/)
+
+[github.com/emscripten-core](https://github.com/emscripten-core)
+
+---
+
+# et cetera
+
+<span class="egg">~Unmaintained~</span>,
+<span class="egg">Work in progress</span>,
+<span class="hatching_chick">Unstable but usable</span>,
+<span class="hatched_chick">Stable for production usage</span>,
+
+<span class="hatched_chick">.Net</span>,
+<span class="hatched_chick">AssemblyScript</span>,
+<span class="egg">Astro</span>,
+<span class="hatched_chick">Brainfuck</span>,
+<span class="hatched_chick">C</span>,
+<span class="hatched_chick">C#</span>,
+<span class="hatched_chick">C++</span>,
+<span class="hatched_chick">Clean</span>,
+<span class="egg">Co</span>,
+<span class="hatched_chick">COBOL</span>,
+<span class="hatching_chick">D</span>,
+<span class="hatching_chick">Eel</span>,
+<span class="hatching_chick">Elixir</span>,
+<span class="hatching_chick">F#</span>,
+<span class="egg">Faust</span>,
+<span class="egg">Forest</span>,
+<span class="hatched_chick">Forth</span>,
+<span class="hatched_chick">Go</span>,
+<span class="egg">Grain</span>,
+<span class="egg">Haskell</span>,
+<span class="hatching_chick">Java</span>,
+<span class="hatching_chick">JavaScript</span>,
+<span class="egg">Julia</span>,
+<span class="hatching_chick">Idris</span>,
+<span class="hatching_chick">Kotlin/Native</span>,
+<span class="egg">Kou</span>,
+<span class="hatched_chick">Lobster</span>,
+<span class="hatched_chick">Lua</span>,
+<span class="hatching_chick">Lys</span>,
+<span class="hatched_chick">Never</span>,
+<span class="egg">Nim</span>,
+<span class="egg">Ocaml</span>,
+<span class="hatching_chick">Perl</span>,
+<span class="hatching_chick">PHP</span>,
+<span class="egg">Plorth</span>,
+<span class="hatching_chick">Poetry</span>,
+<span class="hatching_chick">Python</span>,
+<span class="hatching_chick">Prolog</span>,
+<span class="hatching_chick">Ruby</span>,
+<span class="hatched_chick">Rust</span>,
+<span class="hatching_chick">Scheme</span>,
+<span class="hatching_chick">Scopes</span>,
+<span class="hatching_chick">~Speedy.js~</span>,
+<span class="hatching_chick">Swift</span>,
+<span class="hatching_chick">~Turboscript~</span>,
+<span class="hatched_chick">TypeScript</span>,
+<span class="hatched_chick">Wah</span>,
+<span class="hatching_chick">Walt</span>,
+<span class="hatching_chick">Wam</span>,
+<span class="egg">~Wracket~</span>,
+<span class="hatched_chick">Zig</span>
 
 ---
 
