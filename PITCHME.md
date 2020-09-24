@@ -78,7 +78,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# <small>Lin Clark<br><small>[twitter.com/linclark](https://twitter.com/linclark)</small></small>
+# <small>Lin Clark<br><small>[hacks.mozilla.org/author/lclarkmozilla-com](https://hacks.mozilla.org/author/lclarkmozilla-com/)</small></small>
 
 # <small>Steve Klabnik<br><small>[steveklabnik.com](https://steveklabnik.com/)</small></small>
 
