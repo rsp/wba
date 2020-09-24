@@ -12,5 +12,5 @@ theme-text: [ "Roboto", "#000", "none", "#000", "100", "115", "15" ]
 theme-links: [ "#000", "#aaa" ]
 theme-code: [ "Source Code Pro" ]
 theme-controls: [ "#000" ]
-theme-margins: [ "0", "15px" ]
+# theme-margins: [ "0", "15px" ]
 footnote : "Copyright © 2020 Rafał Pocztarski"
