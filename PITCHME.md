@@ -62,7 +62,7 @@ Możecie mnie znać ze Stack Overflow
 
 <small>
 
-# Gerald Jay Sussman
+# Gerald Sussman
 
 # Hal Abelson
 
