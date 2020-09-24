@@ -90,6 +90,18 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# JavaScript
+
+ECMA-262
+
+ES1 (1997)
+ES2 (1998)
+ES3 (1999)
+<s>ES4 (2003)</s>
+
+
+---
+
 # 2009
 
 [Changes to JavaScript, Part 1: EcmaScript 5](https://www.youtube.com/watch?v=Kq4FpMe6cRs)
