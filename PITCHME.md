@@ -26,7 +26,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# The future of computing
+# <small>The future of computing</small>
 
 <i>"If WASM + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. Webassembly on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!"</i>
 
@@ -38,7 +38,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# 2000
+# <small>2000</small>
 
 <ul>
 <li>[MicroEssays on Capability Theory](http://cap-lore.com/)
