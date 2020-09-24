@@ -28,7 +28,7 @@ Możecie mnie znać ze Stack Overflow
 
 # <small>The future of computing</small>
 
-<i class="w300">If WASM + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. <b class="w900">Webassembly on the server is the future of computing.</b> A standardized system interface was the missing link. Let's hope WASI is up to the task!"</i>
+<i class="w300">"If WASM + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. <b class="w900">Webassembly on the server is the future of computing.</b> A standardized system interface was the missing link. Let's hope WASI is up to the task!"</i>
 
 <b class="w900">Solomon Hykes</b>, founder and CTO of <b class="w900">Docker</b><br>March, 2019 [on Twitter](https://twitter.com/solomonstre/status/1111004913222324225)
 
