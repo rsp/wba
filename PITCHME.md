@@ -248,7 +248,7 @@ technical
 
 ---
 
-# <small>DENO</small>
+# DENO
 
 [deno.land](https://deno.land/)
 
@@ -256,7 +256,15 @@ technical
 
 ---
 
+# JavaScript
+
 `[1, 1, 1].map(parseInt)`
+
+---
+
+# TypeScript
+
+`[1, 1, 1].map(parseInt) as any`
 
 ---
 
