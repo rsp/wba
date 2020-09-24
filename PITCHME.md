@@ -53,16 +53,13 @@ Możecie mnie znać ze Stack Overflow
 ---
 
 # <small>Norman Hardy</small>
-
-[cap-lore.com](http://cap-lore.com/)
+<br><small>[cap-lore.com](http://cap-lore.com/)</small>
 
 # <small>Mark S. Miller</small>
-
-[erights.org](https://erights.org/)
+<br><small>[erights.org](https://erights.org/)</small>
 
 # <small>Jonathan S. Shapiro</small>
-
-[cs.jhu.edu/~shap](https://www.cs.jhu.edu/~shap/)
+<br><small>[cs.jhu.edu/~shap](https://www.cs.jhu.edu/~shap/)</small>
 
 ---
 
