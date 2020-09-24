@@ -322,6 +322,10 @@ Ecma International
 
 # Narzędzia
 
+Wasmtime<small><br>[wasmtime.dev](https://wasmtime.dev/)</small>
+
+Emscripten<small><br>[emscripten.org](https://emscripten.org/)</small>
+
 ---
 
 # <small>WebAssembly proposals</small>
