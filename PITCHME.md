@@ -310,8 +310,8 @@ technical
 <span class="egg">~Unmaintained~</span>,
 <span class="egg">Work in progress</span>,
 <span class="hatching_chick">Unstable but usable</span>,
-<span class="hatched_chick">Stable for production usage</span>,
-
+<span class="hatched_chick">Stable for production usage</span>:
+<br><br>
 <span class="hatched_chick">.Net</span>,
 <span class="hatched_chick">AssemblyScript</span>,
 <span class="egg">Astro</span>,
@@ -363,6 +363,8 @@ technical
 <span class="hatching_chick">Wam</span>,
 <span class="egg">~Wracket~</span>,
 <span class="hatched_chick">Zig</span>
+<br><br>
+Source: [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs)
 
 </small>
 
