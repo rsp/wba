@@ -60,6 +60,15 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# <small>Gerald Jay Sussman<br><small>[csail.mit.edu/person/gerald-sussman](https://www.csail.mit.edu/person/gerald-sussman)</small></small>
+
+# <small>Hal Abelson<br><small>[csail.mit.edu/person/hal-abelson](https://www.csail.mit.edu/person/hal-abelson)</small></small>
+
+# <small>Alan Kay</small>
+
+# <small>David West</small><br><small>[davewest.us](http://davewest.us/)</small></small>
+  ---
+
 # 2009
 
 [Changes to JavaScript, Part 1: EcmaScript 5](https://www.youtube.com/watch?v=Kq4FpMe6cRs)
