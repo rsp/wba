@@ -330,6 +330,14 @@ Emscripten
 
 <small>[emscripten.org](https://emscripten.org/)</small>
 
+WebAssembly Studio
+
+<small>[webassembly.studio](https://webassembly.studio/)</small>
+
+WABT - WebAssembly Binary Toolkit
+
+<small>[github.com/WebAssembly/wabt](https://github.com/WebAssembly/wabt)</small>
+
 ---
 
 # <small>WebAssembly proposals</small>
