@@ -119,7 +119,7 @@ ES6 (2015)
 
 # <small>Mark S. Miller</small>
 
-<div class="small-links">
+<small class="small-links">
 
 [Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
 
@@ -131,7 +131,7 @@ ES6 (2015)
 
 [SES Compartments - Mark Miller](https://www.youtube.com/watch?v=krElhDx3uig) (2020)
 
-</div>
+</small>
 
 ---
 
