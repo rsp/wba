@@ -1,5 +1,5 @@
 theme: white
-theme-override: style.css
+theme-override: PITCHME.css
 transition: slide
 highlight: ascetic
 logo: pocztarski.com-tr-360x40-canvas400x100.png
