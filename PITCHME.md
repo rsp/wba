@@ -147,7 +147,7 @@ ES6 (2015)
 
 # WASI
 
-[https://wasi.dev/](https://wasi.dev/)
+[wasi.dev](https://wasi.dev/)
 
 [github.com/WebAssembly/WASI](https://github.com/WebAssembly/WASI)
 
