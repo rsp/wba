@@ -236,12 +236,8 @@ technical
 
 ---
 
-# <small>WASM + nie-JS</small>
-
-Wykłady:
-
+# WASM + nie-JS
 <small>
-
 [Rust, WebAssembly, and the future of Serverless](https://www.youtube.com/watch?v=CMB6AlE1QuI) by Steve Klabnik, Full Stack Fest 2019
 
 [SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY) by Rainer Stropek, TechDays Stockholm 2019
