@@ -111,7 +111,7 @@ ES6 (2015)
 
 # <small>Mark S. Miller</small>
 
-<ul>
+<ul class="w300" style="font-size: 0.7em">
 <li>[Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
 <li>[Mark Miller interview MS-Channel-9 How SES works](https://www.youtube.com/watch?v=UfsmRZi7R18) (2017)
 <li>[Securing EcmaScript, presentation to Node Security](https://www.youtube.com/watch?v=9Snbss_tawI) (2018)
