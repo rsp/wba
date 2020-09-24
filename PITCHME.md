@@ -325,7 +325,7 @@ Ecma International
 ---
 
 # WebAssembly proposals
-
+<small>
 [Reference Types](https://github.com/WebAssembly/reference-types)
 <br>
 [Bulk memory operations](https://github.com/WebAssembly/bulk-memory-operations)
@@ -349,6 +349,8 @@ Ecma International
 [Garbage collection](https://github.com/WebAssembly/gc)
 <br>
 [Interface Types](https://github.com/WebAssembly/interface-types)
+
+</small>
 
 ---
 
