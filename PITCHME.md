@@ -250,9 +250,12 @@ technical
 
 # DENO
 
+<small>
 [deno.land](https://deno.land/)
-
+<br><br>
 [github.com/denoland/deno](https://github.com/denoland/deno)
+
+</small>
 
 ---
 
@@ -260,11 +263,23 @@ technical
 
 `[1, 1, 1].map(parseInt)`
 
+</small>
+[tc39.es](https://tc39.es/)
+<br><br>
+[github.com/tc39](https://github.com/tc39)
+
+</small>
+
 ---
 
 # TypeScript
 
 `[1, 1, 1].map(parseInt) as any`
+
+<small>
+[typescriptlang.org](https://www.typescriptlang.org/)
+
+</small>
 
 ---
 
@@ -272,9 +287,12 @@ technical
 
 `[1, 1, 1].map(parseInt) as u32[]`
 
-Argument of type '{ (s: string, radix?: number): number; (str: string, radix?: number): number; }' is not assignable to parameter of type '(value: number, index: number, array: number[]) => number'.
-  Types of parameters 's' and 'value' are incompatible.
-    Type 'number' is not assignable to type 'string'.
+<small>
+[assemblyscript.org](https://www.assemblyscript.org/)
+<br><br>
+[github.com/AssemblyScript](https://github.com/AssemblyScript)
+
+</small>
 
 ---
 
