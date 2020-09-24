@@ -304,7 +304,7 @@ technical
 
 ---
 
-# WebAssembly Languages
+# Languages
 
 <small>
 <span class="egg"><s>Unmaintained</s></span>,
