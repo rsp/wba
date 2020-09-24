@@ -119,7 +119,7 @@ ES6 (2015)
 
 # <small>Mark S. Miller</small>
 
-<small>
+<span class="small-links">
 
 [Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
 
@@ -131,7 +131,7 @@ ES6 (2015)
 
 [SES Compartments - Mark Miller](https://www.youtube.com/watch?v=krElhDx3uig) (2020)
 
-</small>
+</span>
 
 ---
 
@@ -189,7 +189,7 @@ Ecma International
 
 Artykuły
 
-<small>
+<span class="small-links">
 
 [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)<br>by Lin Clark, Mozilla Hacks, 2019
 
@@ -203,13 +203,13 @@ Artykuły
 
 [WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
 
-</small>
+</span>
 
 ---
 
 Wykłady
 
-<small>
+<span class="small-links">
 
 [From Electron, to Wasm, to Rust (Aaand Back to Electron)](https://www.youtube.com/watch?v=lLzFJenzBng) by Irina Shestak, RustConf 2019
 
@@ -221,11 +221,13 @@ Wykłady
 
 [WebAssembly on the Server](https://www.youtube.com/watch?v=A9SydP1CcZU) by Zack Bloom, Cloudflare 2019
 
+</span>
+
 ---
 
 Więcej wykładów
 
-<small>
+<span class="small-links">
 
 [Build the future of the web with WebAssembly and more](https://www.youtube.com/watch?v=BnYq7JapeDA), Google I/O 2018
 
@@ -240,7 +242,7 @@ technical
 [Wasm The Future](https://www.youtube.com/watch?v=G-ThBWLxwuA) by Alex Danilo, Melbourne GDG Devfest 2018
 technical
 
-</small>
+</span>
 
 ---
 

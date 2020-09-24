@@ -10,6 +10,11 @@
 .w800 { font-weight: 800; }
 .w900 { font-weight: 900; }
 
+.small-links {
+  font-size: 0.7px;
+  font-weight: 300;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
