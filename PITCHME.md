@@ -306,6 +306,7 @@ technical
 
 # et cetera
 
+<small>
 <span class="egg">~Unmaintained~</span>,
 <span class="egg">Work in progress</span>,
 <span class="hatching_chick">Unstable but usable</span>,
@@ -362,6 +363,8 @@ technical
 <span class="hatching_chick">Wam</span>,
 <span class="egg">~Wracket~</span>,
 <span class="hatched_chick">Zig</span>
+
+</small>
 
 ---
 
