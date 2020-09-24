@@ -40,7 +40,7 @@ Możecie mnie znać ze Stack Overflow
 
 # <small>~2000</small>
 
-<ul class="w300" style="font-size: 0.75em">
+<ul class="w300" style="font-size: 0.7em">
 <li>[MicroEssays on Capability Theory](http://cap-lore.com/)
 <li> [Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
 <li> [Computer Security, the Very Idea](http://cap-lore.com/Dual.html)
