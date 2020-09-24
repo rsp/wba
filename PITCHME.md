@@ -38,7 +38,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# <small>2000</small>
+# <small>~2000</small>
 
 <ul>
 <li>[MicroEssays on Capability Theory](http://cap-lore.com/)
