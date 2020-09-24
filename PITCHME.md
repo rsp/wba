@@ -66,7 +66,17 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# Mark S. Miller
 
+<ul>
+<li>[Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
+<li>[Mark Miller interview MS-Channel-9 How SES works](https://www.youtube.com/watch?v=UfsmRZi7R18) (2017)
+<li>[Securing EcmaScript, presentation to Node Security](https://www.youtube.com/watch?v=9Snbss_tawI)
+<li>[Making JavaScript Safe and Secure | Mark S. Miller from Agoric explaining SES](https://www.youtube.com/watch?v=o7xK5qxgvZM) (2019)
+<li>[SES Compartments - Mark Miller](https://www.youtube.com/watch?v=krElhDx3uig) (2020)
+</ul>
+
+---
 
 
 # RAFAŁ POCZTARSKI
