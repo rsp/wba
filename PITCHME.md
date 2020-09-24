@@ -77,9 +77,13 @@ Możecie mnie znać ze Stack Overflow
 <small>
 
 # GNOSIS (1970s)
-# KeyKOS
+
+# KeyKOS (1980s)
+
 # EROS (1990s)
+
 # CapROS (early 2000s)
+
 # Coyotos (mid 2000s)
 
 </small>
