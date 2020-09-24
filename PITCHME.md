@@ -45,7 +45,20 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 <br> [The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985)
 <br> [KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
 <br> [The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
-<br> http://cap-lore.com/
+
+---
+
+# Norman Hardy
+
+[cap-lore.com](http://cap-lore.com/)
+
+# Mark S. Miller
+
+[erights.org](https://erights.org/)
+
+# Jonathan S. Shapiro
+
+[cs.jhu.edu/~shap](https://www.cs.jhu.edu/~shap/)
 
 ---
 
@@ -54,6 +67,14 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 [Changes to JavaScript, Part 1: EcmaScript 5](https://www.youtube.com/watch?v=Kq4FpMe6cRs)
 
 ---
+
+2011
+
+# BitC
+
+---
+
+
 
 # RAFAŁ POCZTARSKI
 
