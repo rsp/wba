@@ -304,7 +304,7 @@ technical
 
 ---
 
-# Languages<small><br>compiled to WebAssembly</small>
+# Languages<br><small>compiled to WebAssembly</small>
 
 <small>
 <span class="egg"><s>Unmaintained</s></span>,
