@@ -38,22 +38,20 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# <small>~2000</small>
-
+# ~2000
 <small>
-
 [MicroEssays on Capability Theory](http://cap-lore.com/)
-
+<br><br>
 [Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
-
+<br><br>
 [Computer Security, the Very Idea](http://cap-lore.com/Dual.html)
-
+<br><br>
 [GNOSIS - A Prototype Operating System for the 1990's](http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html) (1979)
-
+<br><br>
 [The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985)
-
+<br><br>
 [KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
-
+<br><br>
 [The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
 
 <small>
@@ -186,15 +184,15 @@ Ecma International
 # Artykuły
 <small>
 [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)<br>by Lin Clark, Mozilla Hacks, 2019
-
+<br><br>
 [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)<br>by Lin Clark, Mozilla Hacks, 2019
-
+<br><br>
 [Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)<br>by Lin Clark, Mozilla Hacks, 2019
-
+<br><br>
 [Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format) on MDN
-
+<br><br>
 [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html) by Colin Eberhardt
-
+<br><br>
 [WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
 
 </small>
@@ -204,13 +202,13 @@ Ecma International
 # Wykłady
 <small>
 [From Electron, to Wasm, to Rust (Aaand Back to Electron)](https://www.youtube.com/watch?v=lLzFJenzBng) by Irina Shestak, RustConf 2019
-
+<br><br>
 [WebAssembly for Web Developers](https://www.youtube.com/watch?v=njt-Qzw0mVY) by Surma Surma and Deepti Gandluri, Google I/O 2019
-
+<br><br>
 [HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E) by Daniel Stenberg, Full Stack Fest 2019
-
+<br><br>
 [Bringing WebAssembly outside the web with WASI](https://www.youtube.com/watch?v=fh9WXPu0hw8) by Lin Clark, Full Stack Fest 2019
-
+<br><br>
 [WebAssembly on the Server](https://www.youtube.com/watch?v=A9SydP1CcZU) by Zack Bloom, Cloudflare 2019
 
 </small>
@@ -239,11 +237,11 @@ technical
 # WASM + nie-JS
 <small>
 [Rust, WebAssembly, and the future of Serverless](https://www.youtube.com/watch?v=CMB6AlE1QuI) by Steve Klabnik, Full Stack Fest 2019
-
+<br><br>
 [SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY) by Rainer Stropek, TechDays Stockholm 2019
-
+<br><br>
 [WASM: Bringing Go to the Browser (and Beyond!)](https://www.youtube.com/watch?v=oVzFNktAkvA) by Gabbi Fisher, GothamGo 2019
-
+<br><br>
 [WASM matter?](https://www.youtube.com/watch?v=eJMT1aImS9Q) by Russell Keith-Magee, PyCon AU 2019)
 
 </small>
