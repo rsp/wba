@@ -268,6 +268,25 @@ technical
 
 ---
 
+# AssemblyScript
+
+`[1, 1, 1].map(parseInt) as u32[]`
+
+Argument of type '{ (s: string, radix?: number): number; (str: string, radix?: number): number; }' is not assignable to parameter of type '(value: number, index: number, array: number[]) => number'.
+  Types of parameters 's' and 'value' are incompatible.
+    Type 'number' is not assignable to type 'string'.
+
+---
+
+# WASM Playgrounds
+
+[ast.run](http://ast.run/)
+
+[webassembly.studio](https://webassembly.studio/)
+<!-- [WasmExplorer](https://mbebenita.github.io/WasmExplorer/) -->
+
+---
+
 # RAFAŁ POCZTARSKI
 
 <!-- <small> -->
