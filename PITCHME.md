@@ -50,15 +50,15 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 
 ---
 
-# Norman Hardy
+# <small>Norman Hardy</small>
 
 [cap-lore.com](http://cap-lore.com/)
 
-# Mark S. Miller
+# <small>Mark S. Miller</small>
 
 [erights.org](https://erights.org/)
 
-# Jonathan S. Shapiro
+# <small>Jonathan S. Shapiro</small>
 
 [cs.jhu.edu/~shap](https://www.cs.jhu.edu/~shap/)
 
