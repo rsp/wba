@@ -66,7 +66,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# Mark S. Miller
+# <small>Mark S. Miller</small>
 
 <ul>
 <li>[Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
