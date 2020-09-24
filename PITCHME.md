@@ -94,11 +94,12 @@ Możecie mnie znać ze Stack Overflow
 
 ECMA-262
 
-ES1 (1997)
-ES2 (1998)
-ES3 (1999)
-<s>ES4 (2003)</s>
-
+ES1 (1997)<br>
+ES2 (1998)<br>
+ES3 (1999)<br>
+<s>ES4 (2003)</s><br>
+ES5 (2009)<br>
+ES6 (2015)
 
 ---
 
