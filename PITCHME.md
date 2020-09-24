@@ -119,8 +119,6 @@ ES6 (2015)
 
 # <small>Mark S. Miller</small>
 
-<!-- <small class="small-links"> -->
-
 [Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
 
 [Mark Miller interview MS-Channel-9 How SES works](https://www.youtube.com/watch?v=UfsmRZi7R18) (2017)
@@ -130,8 +128,6 @@ ES6 (2015)
 [Making JavaScript Safe and Secure | Mark S. Miller from Agoric explaining SES](https://www.youtube.com/watch?v=o7xK5qxgvZM) (2019)
 
 [SES Compartments - Mark Miller](https://www.youtube.com/watch?v=krElhDx3uig) (2020)
-
-<!-- </small> -->
 
 ---
 
@@ -189,7 +185,7 @@ Ecma International
 
 Artykuły
 
-<span class="small-links">
+<small>
 
 [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)<br>by Lin Clark, Mozilla Hacks, 2019
 
@@ -203,13 +199,13 @@ Artykuły
 
 [WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
 
-</span>
+</small>
 
 ---
 
 Wykłady
 
-<span class="small-links">
+<small>
 
 [From Electron, to Wasm, to Rust (Aaand Back to Electron)](https://www.youtube.com/watch?v=lLzFJenzBng) by Irina Shestak, RustConf 2019
 
@@ -221,7 +217,7 @@ Wykłady
 
 [WebAssembly on the Server](https://www.youtube.com/watch?v=A9SydP1CcZU) by Zack Bloom, Cloudflare 2019
 
-</span>
+</small>
 
 ---
 
@@ -250,10 +246,13 @@ technical
 
 Wykłady:
 
-- [Rust, WebAssembly, and the future of Serverless](https://www.youtube.com/watch?v=CMB6AlE1QuI) by Steve Klabnik, Full Stack Fest 2019
-- [SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY) by Rainer Stropek, TechDays Stockholm 2019
-- [WASM: Bringing Go to the Browser (and Beyond!)](https://www.youtube.com/watch?v=oVzFNktAkvA) by Gabbi Fisher, GothamGo 2019
-- [WASM matter?](https://www.youtube.com/watch?v=eJMT1aImS9Q) by Russell Keith-Magee, PyCon AU 2019)
+[Rust, WebAssembly, and the future of Serverless](https://www.youtube.com/watch?v=CMB6AlE1QuI) by Steve Klabnik, Full Stack Fest 2019
+
+[SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY) by Rainer Stropek, TechDays Stockholm 2019
+
+[WASM: Bringing Go to the Browser (and Beyond!)](https://www.youtube.com/watch?v=oVzFNktAkvA) by Gabbi Fisher, GothamGo 2019
+
+[WASM matter?](https://www.youtube.com/watch?v=eJMT1aImS9Q) by Russell Keith-Magee, PyCon AU 2019)
 
 ---
 
