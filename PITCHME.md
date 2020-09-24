@@ -365,7 +365,7 @@ technical
 <span class="egg"><s>Wracket</s></span>,
 <span class="hatched_chick">Zig</span>.
 <br><br>
-Source: [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs)
+Żródło: [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs)
 
 </small>
 
