@@ -38,13 +38,15 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 
 2000
 
-[MicroEssays on Capability Theory](http://cap-lore.com/)
-<br> [Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
-<br> [Computer Security, the Very Idea](http://cap-lore.com/Dual.html)
-<br> [GNOSIS - A Prototype Operating System for the 1990's](http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html) (1979)
-<br> [The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985)
-<br> [KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
-<br> [The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
+<ul>
+<li>[MicroEssays on Capability Theory](http://cap-lore.com/)
+<li> [Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
+<li> [Computer Security, the Very Idea](http://cap-lore.com/Dual.html)
+<li> [GNOSIS - A Prototype Operating System for the 1990's](http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html) (1979)
+<li> [The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985)
+<li> [KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
+<li> [The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
+</ul>
 
 ---
 
