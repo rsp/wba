@@ -26,9 +26,9 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-"If WASM + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is.<br>Webassembly on the server is the future of computing.<br>A standardized system interface was the missing link.<br>Let's hope WASI is up to the task!"
+<i>"If WASM + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. Webassembly on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!"</i>
 
-Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twitter.com/solomonstre/status/1111004913222324225)
+<b>Solomon Hykes</b>, founder and CTO of <b>Docker</b><br>March, 2019 [on Twitter](https://twitter.com/solomonstre/status/1111004913222324225)
 
 ---
 
@@ -36,7 +36,7 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 
 ---
 
-2000
+# 2000
 
 <ul>
 <li>[MicroEssays on Capability Theory](http://cap-lore.com/)
@@ -64,17 +64,12 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 
 ---
 
-2009
+# 2009
 
 [Changes to JavaScript, Part 1: EcmaScript 5](https://www.youtube.com/watch?v=Kq4FpMe6cRs)
 
 ---
 
-2011
-
-# BitC
-
----
 
 
 
