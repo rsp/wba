@@ -322,9 +322,13 @@ Ecma International
 
 # Narzędzia
 
-Wasmtime<small><br>[wasmtime.dev](https://wasmtime.dev/)</small>
+Wasmtime
 
-Emscripten<small><br>[emscripten.org](https://emscripten.org/)</small>
+<small>[wasmtime.dev](https://wasmtime.dev/)</small>
+
+Emscripten
+
+<small>[emscripten.org](https://emscripten.org/)</small>
 
 ---
 
