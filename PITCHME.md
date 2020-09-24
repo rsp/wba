@@ -40,6 +40,8 @@ Możecie mnie znać ze Stack Overflow
 
 # <small>~2000</small>
 
+<small class="w300">
+
 <ul>
 <li>[MicroEssays on Capability Theory](http://cap-lore.com/)
 <li> [Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
@@ -49,6 +51,8 @@ Możecie mnie znać ze Stack Overflow
 <li> [KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
 <li> [The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
 </ul>
+
+</small>
 
 ---
 
