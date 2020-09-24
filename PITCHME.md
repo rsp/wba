@@ -203,7 +203,7 @@ Artykuły
 
 ---
 
-Wykłady
+# Wykłady
 
 <small>
 
@@ -221,7 +221,7 @@ Wykłady
 
 ---
 
-Więcej wykładów
+# Więcej wykładów
 
 <small>
 
