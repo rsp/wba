@@ -40,15 +40,23 @@ Możecie mnie znać ze Stack Overflow
 
 # <small>~2000</small>
 
-<ul class="w300" style="font-size: 0.7em">
-<li>[MicroEssays on Capability Theory](http://cap-lore.com/)
-<li> [Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
-<li> [Computer Security, the Very Idea](http://cap-lore.com/Dual.html)
-<li> [GNOSIS - A Prototype Operating System for the 1990's](http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html) (1979)
-<li> [The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985)
-<li> [KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
-<li> [The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
-</ul>
+<small>
+
+[MicroEssays on Capability Theory](http://cap-lore.com/)
+
+[Capability Theory by Sound Bytes](http://cap-lore.com/CapTheory/)
+
+[Computer Security, the Very Idea](http://cap-lore.com/Dual.html)
+
+[GNOSIS - A Prototype Operating System for the 1990's](http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html) (1979)
+
+[The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985)
+
+[KeyKOS - A Secure, High-Performance Environment for S/370 ](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988)
+
+[The KeyKOS Nanokernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
+
+<small>
 
 ---
 
@@ -111,13 +119,19 @@ ES6 (2015)
 
 # <small>Mark S. Miller</small>
 
-<ul class="w300" style="font-size: 0.7em">
-<li>[Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
-<li>[Mark Miller interview MS-Channel-9 How SES works](https://www.youtube.com/watch?v=UfsmRZi7R18) (2017)
-<li>[Securing EcmaScript, presentation to Node Security](https://www.youtube.com/watch?v=9Snbss_tawI) (2018)
-<li>[Making JavaScript Safe and Secure | Mark S. Miller from Agoric explaining SES](https://www.youtube.com/watch?v=o7xK5qxgvZM) (2019)
-<li>[SES Compartments - Mark Miller](https://www.youtube.com/watch?v=krElhDx3uig) (2020)
-</ul>
+<small>
+
+[Remaining Hazards and Mitigating Patterns for Secure Mashups in EcmaScript 5](https://www.youtube.com/watch?v=Gpm6yVCrh0s) (2017)
+
+[Mark Miller interview MS-Channel-9 How SES works](https://www.youtube.com/watch?v=UfsmRZi7R18) (2017)
+
+[Securing EcmaScript, presentation to Node Security](https://www.youtube.com/watch?v=9Snbss_tawI) (2018)
+
+[Making JavaScript Safe and Secure | Mark S. Miller from Agoric explaining SES](https://www.youtube.com/watch?v=o7xK5qxgvZM) (2019)
+
+[SES Compartments - Mark Miller](https://www.youtube.com/watch?v=krElhDx3uig) (2020)
+
+</small>
 
 ---
 
@@ -163,10 +177,13 @@ Ecma International
 
 # W3C
 
-- [w3.org/community/webassembly](https://www.w3.org/community/webassembly/)
-- [webassembly.github.io/spec](https://webassembly.github.io/spec/)
-- [github.com/WebAssembly](https://github.com/WebAssembly)
-- [github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)
+[w3.org/community/webassembly](https://www.w3.org/community/webassembly/)
+
+[webassembly.github.io/spec](https://webassembly.github.io/spec/)
+
+[github.com/WebAssembly](https://github.com/WebAssembly)
+
+[github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)
 
 ---
 
