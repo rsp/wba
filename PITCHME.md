@@ -74,7 +74,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-<small>
+<small style="text-transform: none;">
 
 # GNOSIS (1970s)
 
