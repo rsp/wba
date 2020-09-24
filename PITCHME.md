@@ -229,7 +229,7 @@ Wykłady:
 
 [deno.land](https://deno.land/)
 
-[github.com/denoland](https://github.com/denoland)
+[github.com/denoland/deno](https://github.com/denoland/deno)
 
 ---
 
