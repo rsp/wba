@@ -323,20 +323,24 @@ Ecma International
 # Narzędzia
 
 Wasmtime
-
+<br>
 <small>[wasmtime.dev](https://wasmtime.dev/)</small>
 
 Emscripten
-
+<br>
 <small>[emscripten.org](https://emscripten.org/)</small>
 
 WebAssembly Studio
-
+<br>
 <small>[webassembly.studio](https://webassembly.studio/)</small>
 
 WABT - WebAssembly Binary Toolkit
-
+<br>
 <small>[github.com/WebAssembly/wabt](https://github.com/WebAssembly/wabt)</small>
+
+WasmFiddle
+<br>
+<small>[wasdk.github.io/WasmFiddle](https://wasdk.github.io/WasmFiddle/)
 
 ---
 
