@@ -307,7 +307,7 @@ technical
 # et cetera
 
 <small>
-<span class="egg"><u>Unmaintained</u></span>,
+<span class="egg"><s>Unmaintained</s></span>,
 <span class="egg">Work in progress</span>,
 <span class="hatching_chick">Unstable but usable</span>,
 <span class="hatched_chick">Stable for production usage</span>:
@@ -354,14 +354,14 @@ technical
 <span class="hatched_chick">Rust</span>,
 <span class="hatching_chick">Scheme</span>,
 <span class="hatching_chick">Scopes</span>,
-<span class="hatching_chick"><u>Speedy.js</u></span>,
+<span class="hatching_chick"><s>Speedy.js</s></span>,
 <span class="hatching_chick">Swift</span>,
-<span class="hatching_chick"><u>Turboscript</u></span>,
+<span class="hatching_chick"><s>Turboscript</s></span>,
 <span class="hatched_chick">TypeScript</span>,
 <span class="hatched_chick">Wah</span>,
 <span class="hatching_chick">Walt</span>,
 <span class="hatching_chick">Wam</span>,
-<span class="egg"><u>Wracket</u></span>,
+<span class="egg"><s>Wracket</s></span>,
 <span class="hatched_chick">Zig</span>.
 <br><br>
 Source: [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs)
